@@ -1,5 +1,5 @@
 SUTRA v3: Framework for Ethical AI Alignment (BETA)
-Sutra Logo
+<img src="logo.png" alt="SUTRA Logo">
 
 Overview
 Welcome to SUTRA v3 - a cutting-edge framework in development, aimed at aligning AI with human ethical standards, values, and societal norms. This project is currently in its Beta phase, where we are actively testing and refining our approach. SUTRA v3 introduces an ethical framework inspired by Buddhist philosophy, tailored for modern AI systems.
