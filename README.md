@@ -65,9 +65,8 @@ This project is licensed under the M[IT License](LICENSE).
 Contact
 For questions or to get involved in our testing phase, reach out:
 
-Email: info@OneZeroEight.ai
-X: @OneZerEight_ai
-Insta: OneZeroEight-ai
+Email: info@onezeroeight.ai
+X: @OneZeroEight.ai
 Bluesky: OneZeroEight.ai
 
-Note: Replace placeholders like path/to/your/logo.png, your-username, and your.email@example.com with actual values. Remember, this README reflects a project in active development, so expect changes as we progress through beta testing.
+Remember, this README reflects a project in active development, so expect changes as we progress through beta testing.
