@@ -1,6 +1,6 @@
 # SUTRA: Sustainable Token for Reincarnation and Alignment
 
-<img src="logo.png" alt="SUTRA Logo">
+<img src="SUTRAsml.png" alt="SUTRA Logo">
 
 
 
