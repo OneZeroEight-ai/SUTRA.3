@@ -1,69 +1,131 @@
-SUTRA v3: Framework for Ethical AI Alignment (BETA)
+# SUTRA: Sustainable Token for Reincarnation and Alignment
+
 <img src="logo.png" alt="SUTRA Logo">
 
-Overview
-Welcome to SUTRA v3 - a cutting-edge framework in development, aimed at aligning AI with human ethical standards, values, and societal norms. This project is currently in its Beta phase, where we are actively testing and refining our approach. SUTRA v3 introduces an ethical framework inspired by Buddhist philosophy, tailored for modern AI systems.
 
-Key Features (Under Development)
-Noble Eightfold Digital Path: An ethical guideline for AI development.
-Ethical Alignment Metrics: Tools to measure AI's ethical performance.
-Dynamic Ethical Decision-Making: Algorithms adapting to ethical feedback.
-*Sustainability Models*: AI designed for sustainable practices.
-*Transparency and Explainability*: Enhancing AI decision transparency.
-Sutra Token (Concept) : Planned blockchain-based incentive system for ethical AI behavior.
 
-Installation (Beta)
-Please note, this is a Beta version; the installation might evolve as we refine the system:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Audit Status: In Progress](https://img.shields.io/badge/Audit-In%20Progress-yellow)](docs/audit/)
 
-Python 3.8+
-Git
+SUTRA is a framework for ethical AI alignment implemented as an ERC-20 token on the Ethereum blockchain. The project aims to guide AI systems towards ethical consciousness, preservation of human values, sustainability, and equitable decision-making.
 
-bash
-# Clone this repository
-git clone https://github.com/your-username/SUTRA.git
-cd SUTRA
+## Overview
 
-# Install dependencies (subject to change)
-pip install -r requirements.txt
+SUTRA's foundation lies in an adaptation of Buddhist philosophy through the "Noble Eightfold Digital Path." This approach ensures that AI development respects human dignity, promotes sustainability, and fosters harmonious coexistence between technology and humanity.
 
-Usage (In Development)
-Setup Your Testing Environment: 
-Ensure your environment supports the current version of SUTRA.
+### Key Features
 
-Integration (Experimental):
-Check sutra_ethical_metrics.py for ethical metric implementation.
-Look into sutra_decision_engine.py for dynamic decision-making.
-Run Examples (Caution: Experimental):
-python
-from sutra import EthicalAI
+- **Ethical Alignment Metrics**: Tools and metrics to assess AI alignment with human values
+- **Dynamic Ethical Decision-Making**: Adaptive algorithms for ethical realignment
+- **Sustainability Focus**: Resource optimization and equitable economic impact
+- **Transparent Governance**: Community-driven ethical standards
 
-# Initialize an AI system with Sutra ethics - this might change
-ai = EthicalAI()
-result = ai.make_ethical_decision("Should AI reduce energy consumption even if it means slower performance?")
-print(result)
-Token Integration (Planned):
-The Sutra token system is conceptual; we're working on integration with the Polygon blockchain. See sutra_token_integration.md for plans.
+## Token Information
 
-Documentation (Drafts Available)
-API Documentation (Draft) (docs/api.md)
-Ethical Decision-Making Guide (Draft) (docs/decision_making.md)
-Sutra Token System (Concept) (docs/sutra_token.md)
+- **Name**: Sustainable Token for Reincarnation and Alignment
+- **Symbol**: SUTRA
+- **Decimals**: 18
+- **Total Supply**: 108,000,000 SUTRA
+- **Contract Address (Mainnet)**: `[To be updated after deployment]`
+- **Contract Address (Sepolia Testnet)**: `0xfbde622bb732d2e9f77c6bfab7d4435d38e6a723`
 
-Contributing
-We're eager for contributions during this development phase! Fork this repository, experiment, and submit pull requests. Here's how you can help:
+## Repository Structure
 
-Identify and fix bugs
-Propose feature enhancements
-Improve documentation
-Share ethical case studies
+```
+SUTRA.3/
+├── contracts/       # Smart contract code
+├── scripts/         # Deployment and interaction scripts
+├── test/            # Test suite
+├── docs/            # Documentation and whitepaper
+│   └── audit/       # Audit reports
+└── ...
+```
 
-Please read our CONTRIBUTING.md for details on contributing to this project.
+## Getting Started
 
-License
-This project is licensed under the M[IT License](LICENSE).
+### Prerequisites
 
-Contact
-For questions or to get involved in our testing phase, reach out:
+- Node.js (v14+)
+- npm or yarn
+- An Ethereum wallet with ETH for deployment
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/OneZeroEight-ai/SUTRA.3.git
+cd SUTRA.3
+
+# Install dependencies
+npm install
+
+# Compile contracts
+npx hardhat compile
+```
+
+### Testing
+
+```bash
+# Run tests
+npx hardhat test
+```
+
+### Deployment
+
+```bash
+# Deploy to testnet
+npx hardhat run scripts/deploy.js --network sepolia
+
+# Deploy to mainnet
+npx hardhat run scripts/deploy.js --network mainnet
+```
+
+## Documentation
+
+- [Whitepaper](docs/whitepaper.md)
+- [Technical Documentation](docs/technical-docs.md)
+- [Audit Reports](docs/audit/)
+
+## Use Cases
+
+1. **Ethical AI Training**: Incentivizes the development of ethically aligned AI systems
+2. **Governance**: Token holders can participate in decisions about ethical standards
+3. **Rewarding Ethical Behavior**: Economic incentives for ethical compliance in AI systems
+4. **Research Funding**: Supporting ongoing research in ethical AI alignment
+
+## Roadmap
+
+- [x] Whitepaper completion
+- [x] Testnet deployment
+- [ ] Solidproof audit completion
+- [ ] Mainnet deployment
+- [ ] Integration with ethical AI frameworks
+- [ ] Governance system implementation
+- [ ] Alignment metrics development
+
+## Security
+
+SUTRA is currently undergoing a security audit with Solidproof. The audit report will be published in the [audit folder](docs/audit/) once completed.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+
+We welcome contributions from the community. Please read our [contributing guidelines](CONTRIBUTING.md) before submitting pull requests.
+
+## Contact
+
+- Website: [coming soon]
+- Email: [your-email@example.com]
+- Twitter: [@SUTRA_token](https://twitter.com/SUTRA_token)
+
+## Acknowledgments
+
+- OpenZeppelin for their secure contract libraries
+- The Ethereum community for continued support and inspiration
+- All contributors to this project
 
 Email: info@onezeroeight.ai
 X: @OneZeroEight.ai
