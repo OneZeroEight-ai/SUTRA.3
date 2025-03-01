@@ -82,7 +82,7 @@ npx hardhat run scripts/deploy.js --network mainnet
 
 ## Documentation
 
-- [Whitepaper](docs/whitepaper.md)
+- [Whitepaper](whitepaper.md)
 - [Technical Documentation](docs/technical-docs.md)
 - [Audit Reports](docs/audit/)
 
@@ -117,9 +117,9 @@ We welcome contributions from the community. Please read our [contributing guide
 
 ## Contact
 
-- Website: [coming soon]
-- Email: [your-email@example.com]
-- Twitter: [@SUTRA_token](https://twitter.com/SUTRA_token)
+- Website: OneZeroEight.ai
+- Email: info@OneZeroEight.ai
+- Twitter: [@OneZeroEight_ai](https://twitter.com/OneZeroEight_ai)
 
 ## Acknowledgments
 
@@ -128,7 +128,7 @@ We welcome contributions from the community. Please read our [contributing guide
 - All contributors to this project
 
 Email: info@onezeroeight.ai
-X: @OneZeroEight.ai
-Bluesky: OneZeroEight.ai
+X: @OneZeroEight_ai
+Bluesky: OneZeroEight_ai
 
 Remember, this README reflects a project in active development, so expect changes as we progress through beta testing.
