@@ -7,7 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Audit Status: In Progress](https://img.shields.io/badge/Audit-In%20Progress-yellow)](docs/audit/)
 
-SUTRA is a framework for ethical AI alignment implemented as an ERC-20 token on the Ethereum blockchain. The project aims to guide AI systems towards ethical consciousness, preservation of human values, sustainability, and equitable decision-making.
+SUTRA is a framework for ethical AI alignment implemented as an ERC-20 token on the Polygon blockchain. The project aims to guide AI systems towards ethical consciousness, preservation of human values, sustainability, and equitable decision-making.
 
 ## Overview
 
@@ -47,7 +47,7 @@ SUTRA.3/
 
 - Node.js (v14+)
 - npm or yarn
-- An Ethereum wallet with ETH for deployment
+- An Polygon wallet with POL for deployment
 
 ### Installation
 
