@@ -177,20 +177,35 @@ These dialogues reveal nuanced differences in how systems reason about complex a
 SUTRA will conduct an 8-stage presale beginning April 2, 2025, mirroring the Noble Eightfold Digital Path. Each stage will unlock new capabilities and opportunities within the ecosystem.
 
 ### Token Distribution
-- **Total Supply**: 108,000,000 SUTRA
-- **Presale Allocation**: 35%
-- **Ecosystem Development**: 25%
-- **Team and Advisors**: 15% (vested over 3 years)
-- **Community and Rewards**: 15%
-- **Liquidity Provision**: 5%
-- **Reserve**: 5%
+- Total Supply: 108,000,000 SUTRA  
+
+- Presale Allocation: 35% - For community members to acquire tokens for ecosystem use.  
+
+- Ecosystem Development: 25% - Dedicated to building and enhancing platform functionality.  
+
+- Team and Advisors: 15% (vested over 3 years) - Aligned with long-term project success.  
+
+- Community and Rewards: 15% - To incentivize active participation, not profit speculation.  
+
+- Liquidity Provision: 5% - To ensure smooth ecosystem operations.  
+
+- Reserve: 5% - Held for unforeseen needs, not speculative purposes.
+
 
 ### Fund Allocation
-- **Technical Development**: 45%
-- **Research and AI Ethics**: 25%
-- **Operations**: 15%
-- **Marketing and Community**: 10%
-- **Legal and Compliance**: 5%
+- Technical Development: 45% - To create a robust, user-focused platform.  
+
+- Research and AI Ethics: 25% - To advance responsible AI innovation.  
+
+- Operations: 15% - For sustainable ecosystem management.  
+
+- Marketing and Community: 10% - To educate and engage users, not to promote investment.  
+
+- Legal and Compliance: 5% - To adhere to applicable regulations and best practices.
+
+### Regulatory Note
+>SUTRA tokens are designed as utility tokens for ecosystem participation, not as securities or investment vehicles. We are committed to transparency and compliance with evolving regulatory standards. Participants are encouraged to review our whitepaper and consult local regulations before engaging. No guarantees of value or returns are made, as SUTRA’s purpose is to enable functionality within a decentralized network, not to serve as a financial instrument.
+
 
 ## Addressing Alignment Challenges
 
