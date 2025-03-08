@@ -22,7 +22,7 @@ SUTRA's foundation lies in an adaptation of Buddhist philosophy through the "Nob
 
 ## Token Information
 
-- **Name**: Sustainable Token for Reincarnation and Alignment
+- **Name**: Sustainable Utility Token for Reliable Alignment
 - **Symbol**: SUTRA
 - **Decimals**: 18
 - **Total Supply**: 108,000,000 SUTRA
