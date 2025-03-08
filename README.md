@@ -82,7 +82,7 @@ npx hardhat run scripts/deploy.js --network mainnet
 
 ## Documentation
 
-- [Whitepaper](whitepaper.md)
+- [Whitepaper](WHITEPAPER.md)
 - [Technical Documentation](docs/technical-docs.md)
 - [Audit Reports](docs/audit/)
 
