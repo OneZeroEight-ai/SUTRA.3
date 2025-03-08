@@ -1,4 +1,4 @@
-# SUTRA: Sustainable Token for Reincarnation and Alignment
+# SUTRA: Sustainable Utility Token for Reliable Alignment
 
 <img src="SUTRAsml.png" alt="SUTRA Logo">
 
@@ -97,8 +97,8 @@ npx hardhat run scripts/deploy.js --network mainnet
 
 - [x] Whitepaper completion
 - [x] Testnet deployment
-- [ ] Solidproof audit completion
-- [ ] Mainnet deployment
+- [x] Solidproof audit completion
+- [x] Mainnet deployment
 - [ ] Integration with ethical AI frameworks
 - [ ] Governance system implementation
 - [ ] Alignment metrics development
