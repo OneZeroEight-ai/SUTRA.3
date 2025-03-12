@@ -1,6 +1,6 @@
 # SUTRA Whitepaper
 ## Sustainable Utility Token for Reliable Alignment
-### Version 3.5 | March 12, 2025
+### Version 4.0 | March 13, 2025
 
 ---
 
@@ -101,14 +101,14 @@ The presale, launching April 2, 2025, follows an 8-stage structure aligned with 
 
 | Stage                | Price    | Dates          | Allocation     |
 |----------------------|----------|----------------|----------------|
-| Right Understanding  | $0.01    | April 2-7      | 2,000,000 SUTRA |
-| Right Intention      | $0.0125  | April 8-13     | 2,500,000 SUTRA |
-| Right Speech         | $0.015   | April 14-19    | 3,000,000 SUTRA |
-| Right Action         | $0.0175  | April 20-25    | 3,500,000 SUTRA |
-| Right Livelihood     | $0.02    | April 26-May 3 | 4,000,000 SUTRA |
-| Right Effort         | $0.0225  | May 4-11       | 4,000,000 SUTRA |
-| Right Mindfulness    | $0.025   | May 12-19      | 4,000,000 SUTRA |
-| Right Concentration  | $0.0275  | May 20-30      | 3,000,000 SUTRA |
+| Right Understanding  | $0.1     | April 2-7      | 2,000,000 SUTRA |
+| Right Intention      | $0.125   | April 8-13     | 2,500,000 SUTRA |
+| Right Speech         | $0.15    | April 14-19    | 3,000,000 SUTRA |
+| Right Action         | $0.175   | April 20-25    | 3,500,000 SUTRA |
+| Right Livelihood     | $0.2     | April 26-May 3 | 4,000,000 SUTRA |
+| Right Effort         | $0.225   | May 4-11       | 4,000,000 SUTRA |
+| Right Mindfulness    | $0.25    | May 12-19      | 4,000,000 SUTRA |
+| Right Concentration  | $0.275   | May 20-30      | 3,000,000 SUTRA |
 
 **Features**:
 - **Early Bird Bonus**: First 100 unique participants receive a 5% token bonus.
