@@ -26,7 +26,7 @@ SUTRA's foundation lies in an adaptation of Buddhist philosophy through the "Nob
 - **Symbol**: SUTRA
 - **Decimals**: 18
 - **Total Supply**: 108,000,000 SUTRA
-- **Contract Address (Mainnet)**: `[To be updated after deployment]`
+- **Contract Address (Mainnet)**: `0xfbE65e40deeA2A56F8E802Fecef343a8103e0De7`
 - **Contract Address (Sepolia Testnet)**: `0xfbde622bb732d2e9f77c6bfab7d4435d38e6a723`
 
 ## Repository Structure
