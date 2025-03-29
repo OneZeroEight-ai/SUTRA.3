@@ -190,5 +190,5 @@ SUTRA pioneers a tokenized ecosystem for ethical AI alignment, merging philosoph
 ## References
 - OpenZeppelin: [github.com/OpenZeppelin/openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - Polygon Docs: [docs.polygon.technology](https://docs.polygon.technology/)
-- SUTRA Contract: [polygonscan.com/address/0xfbE65e40deeA2A56F8E802Fecef343a8103e0De7](https://polygonscan.com/address/0xfbE65e40deeA2A56F8E802Fecef343a8103e0De7)
+- SUTRA Contract: [polygonscan.com/address/0x0b3f81d3E1FA01e911A8B4e49048eEA0ddf2A896](https://polygonscan.com/address/0x0b3f81d3E1FA01e911A8B4e49048eEA0ddf2A896)
 - Provisional Patent: [Pending, filed 2025]
