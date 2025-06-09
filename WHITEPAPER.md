@@ -97,18 +97,18 @@ These principles are reflected in SUTRA’s code, governance, and token utility,
   - 10% Reserve (10,800,000 tokens)
 
 ### 5.2 Noble Eightfold Digital Path Presale
-The presale, launching April 2, 2025, follows an 8-stage structure aligned with the Noble Eightfold Digital Path. Each stage offers a fixed allocation at increasing prices:
+The presale, launching July 2, 2025, follows an 8-stage structure aligned with the Noble Eightfold Digital Path. Each stage offers a fixed allocation at increasing prices:
 
 | Stage                | Price    | Dates          | Allocation     |
 |----------------------|----------|----------------|----------------|
-| Right Understanding  | $0.1     | April 2-7      | 2,000,000 SUTRA |
-| Right Intention      | $0.125   | April 8-13     | 2,500,000 SUTRA |
-| Right Speech         | $0.15    | April 14-19    | 3,000,000 SUTRA |
-| Right Action         | $0.175   | April 20-25    | 3,500,000 SUTRA |
-| Right Livelihood     | $0.2     | April 26-May 3 | 4,000,000 SUTRA |
-| Right Effort         | $0.225   | May 4-11       | 4,000,000 SUTRA |
-| Right Mindfulness    | $0.25    | May 12-19      | 4,000,000 SUTRA |
-| Right Concentration  | $0.275   | May 20-30      | 3,000,000 SUTRA |
+| Right Understanding  | $0.1     | July 2-7       | 2,000,000 SUTRA |
+| Right Intention      | $0.125   | July 8-13      | 2,500,000 SUTRA |
+| Right Speech         | $0.15    | July 14-19     | 3,000,000 SUTRA |
+| Right Action         | $0.175   | July 20-25     | 3,500,000 SUTRA |
+| Right Livelihood     | $0.2     | July 26-Aug 3  | 4,000,000 SUTRA |
+| Right Effort         | $0.225   | Aug 4-11       | 4,000,000 SUTRA |
+| Right Mindfulness    | $0.25    | Aug 12-19      | 4,000,000 SUTRA |
+| Right Concentration  | $0.275   | Aug 20-30      | 3,000,000 SUTRA |
 
 **Features**:
 - **Early Bird Bonus**: First 100 unique participants receive a 5% token bonus.
@@ -183,7 +183,7 @@ An initial viability assessment (published with an ISBN) evaluated SUTRA’s fra
 
 ## Conclusion
 
-SUTRA pioneers a tokenized ecosystem for ethical AI alignment, merging philosophy with blockchain innovation. With a presale on April 2, 2025, and leadership from OneZeroEight.ai Network (OZEN), SUTRA invites participation in building a sustainable future for AI ethics.
+SUTRA pioneers a tokenized ecosystem for ethical AI alignment, merging philosophy with blockchain innovation. With a presale on July 2, 2025, and leadership from OneZeroEight.ai Network (OZEN), SUTRA invites participation in building a sustainable future for AI ethics.
 
 ---
 
