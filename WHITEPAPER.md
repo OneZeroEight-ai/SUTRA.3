@@ -448,7 +448,7 @@ POST /webhook/assessment-complete
 
 **Initial Distribution**:
 
-- **19%** (20,520,000) - Public Presale
+- **19%** (20,000,000) - Public Presale
 - **20%** (21,600,000) - Development Team (2-year vesting)
 - **20%** (21,600,000) - Community Rewards Pool
 - **10%** (10,800,000) - Strategic Reserve
@@ -465,7 +465,7 @@ POST /webhook/assessment-complete
 
 |Stage|Principle          |Price (MATIC)|Allocation|Duration|
 |-----|-------------------|-------------|----------|--------|
-|1    |Right Understanding|0.021        |2,052,000 |10 days |
+|1    |Right Understanding|0.021        |2,000,000 |10 days |
 |2    |Right Intention    |0.026        |2,565,000 |9 days  |
 |3    |Right Speech       |0.031        |3,078,000 |8 days  |
 |4    |Right Action       |0.037        |3,591,000 |8 days  |
