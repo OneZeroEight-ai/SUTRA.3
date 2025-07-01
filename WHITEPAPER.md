@@ -1427,12 +1427,209 @@ Research institutions interested in collaboration are encouraged to reach out th
 
 **Forward-Looking Statements**: This whitepaper contains forward-looking statements based on current expectations that involve risks and uncertainties. Actual results may differ materially from those expressed or implied.
 
+# Appendix E: Smart Contract Addresses and Technical Implementation
+
+## Contract Deployment Information
+
+### Primary Smart Contracts on Polygon Mainnet
+
+**SUTRA Token Contract**
+- **Contract Address**: `0x0b3f81d3e1fa01e911a8b4e49048eea0ddf2a896`
+- **Contract Name**: SUTRAToken
+- **Standard**: ERC-20 with extended functionality
+- **Total Supply**: 108,000,000 SUTRA tokens
+- **Decimals**: 18
+- **Polygon Explorer**: [View on PolygonScan](https://polygonscan.com/address/0x0b3f81d3e1fa01e911a8b4e49048eea0ddf2a896)
+
+**SUTRA Presale Contract**
+- **Contract Address**: `0x87B6960DCB450766307FDC61E21aAeC769bBb037`
+- **Contract Name**: SUTRAPresale
+- **Deployment Date**: June 2025
+- **Presale Allocation**: 20,000,000 SUTRA tokens (18.5% of total supply)
+- **Polygon Explorer**: [View on PolygonScan](https://polygonscan.com/address/0x87B6960DCB450766307FDC61E21aAeC769bBb037)
+
+### Supported Stablecoin Contracts
+
+The SUTRA ecosystem accepts the following stablecoins for presale participation:
+
+**USD Coin (USDC) - Primary**
+- **Contract Address**: `0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174`
+- **Decimals**: 6
+- **Recommended**: Yes (institutional grade compliance)
+
+**Tether USD (USDT)**
+- **Contract Address**: `0xc2132D05D31c914a87C6611C10748AEb04B58e8F`
+- **Decimals**: 6
+- **Status**: Supported
+
+**Dai Stablecoin (DAI)**
+- **Contract Address**: `0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063`
+- **Decimals**: 18
+- **Status**: Supported
+
+## Presale Configuration Details
+
+### Stage Structure
+- **Total Stages**: 8 (aligned with Noble Eightfold Digital Path)
+- **Presale Period**: July 2, 2025 - August 31, 2025
+- **Stage Duration**: 1 week per stage
+- **Tokens per Stage**: 2,500,000 SUTRA (except Stage 1: 2,000,000)
+
+### Pricing Schedule
+- **Stage 1 (Right Understanding)**: $0.10 USD per SUTRA
+- **Stage 2 (Right Intention)**: $0.125 USD per SUTRA
+- **Stage 3 (Right Speech)**: $0.15 USD per SUTRA
+- **Stage 4 (Right Action)**: $0.175 USD per SUTRA
+- **Stage 5 (Right Livelihood)**: $0.20 USD per SUTRA
+- **Stage 6 (Right Effort)**: $0.225 USD per SUTRA
+- **Stage 7 (Right Mindfulness)**: $0.25 USD per SUTRA
+- **Stage 8 (Right Concentration)**: $0.275 USD per SUTRA
+
+### Purchase Limits and Bonuses
+- **Minimum Purchase**: $10 USD equivalent
+- **Maximum per Wallet**: 1,000,000 SUTRA tokens
+- **Early Bird Bonus**: 5% bonus for first 100 participants
+- **Vesting Bonuses**:
+  - Immediate release: 0% bonus
+  - 3-month lock: +20% bonus tokens
+  - 6-month lock: +44% bonus tokens
+  - 1-year lock: +80% bonus tokens
+
+## Security and Verification
+
+### Audit Information
+- **Security Auditor**: SolidProof
+- **Audit Completion**: March 2025
+- **Audit Status**: Passed with no critical issues
+- **Audit Report**: Available upon request
+
+### Contract Verification
+Both contracts are fully verified on PolygonScan with publicly viewable source code, enabling complete transparency and community review.
+
+### Multi-signature Treasury
+- **Treasury Address**: Multi-signature wallet for enhanced security
+- **Required Signatures**: 3 of 5 authorized signers
+- **Purpose**: Secure management of presale proceeds and ecosystem development funds
+
+## Technical Specifications
+
+### Blockchain Infrastructure
+- **Network**: Polygon Mainnet (Layer 2 Ethereum scaling solution)
+- **Consensus Mechanism**: Proof of Stake
+- **Average Transaction Fee**: <$0.01 USD
+- **Block Confirmation Time**: ~2 seconds
+- **Ethereum Compatibility**: Full EVM compatibility
+
+### Smart Contract Features
+
+**SUTRAToken Contract**
+- Standard ERC-20 functionality
+- Mintable supply (controlled by governance)
+- Pausable transfers (emergency functionality)
+- Role-based access control
+- Governance token capabilities for future DAO implementation
+
+**SUTRAPresale Contract**
+- Multi-stage pricing mechanism
+- Vesting schedule management
+- Stablecoin payment processing
+- Referral bonus system
+- Emergency pause functionality
+- Automatic stage progression based on time/allocation
+
+### Integration APIs
+
+**Web3 Integration**
+```javascript
+// SUTRA Token Contract ABI (Partial)
+const SUTRA_TOKEN_ABI = [
+  "function balanceOf(address owner) view returns (uint256)",
+  "function transfer(address to, uint256 amount) returns (bool)",
+  "function approve(address spender, uint256 amount) returns (bool)"
+];
+
+// Presale Contract ABI (Partial)
+const PRESALE_ABI = [
+  "function getCurrentStage() view returns (uint8, string, uint256, uint256)",
+  "function calculateSutraAmount(uint256 usdAmount) view returns (uint256)",
+  "function purchaseWithStablecoin(address token, uint256 amount, bool lockTokens)"
+];
+```
+
+**Network Configuration**
+```javascript
+// Polygon Mainnet Configuration
+const POLYGON_CONFIG = {
+  chainId: '0x89', // 137 in decimal
+  chainName: 'Polygon Mainnet',
+  nativeCurrency: {
+    name: 'MATIC',
+    symbol: 'MATIC',
+    decimals: 18
+  },
+  rpcUrls: ['https://polygon-rpc.com/'],
+  blockExplorerUrls: ['https://polygonscan.com/']
+};
+```
+
+## Compliance and Legal Framework
+
+### Regulatory Considerations
+- Utility token classification under applicable jurisdictions
+- KYC/AML compliance for large purchases (>$10,000 USD equivalent)
+- Geographic restrictions apply (check local regulations)
+- Not available to residents of restricted jurisdictions
+
+### Token Distribution Framework
+- **Presale Allocation**: 20,000,000 SUTRA (18.5%)
+- **Team & Advisors**: 10,800,000 SUTRA (10.0%) - 2-year vesting
+- **Ecosystem Development**: 32,400,000 SUTRA (30.0%) - Released via governance
+- **Treasury Reserve**: 21,600,000 SUTRA (20.0%) - Multi-sig controlled
+- **Public Liquidity**: 16,200,000 SUTRA (15.0%) - Exchange listings
+- **Partnerships**: 7,000,000 SUTRA (6.5%) - Strategic allocations
+
+### Governance Implementation
+Post-presale governance structure will be implemented through:
+- SUTRA token-weighted voting
+- Proposal submission requirements
+- Execution timelock periods
+- Community treasury management
+
+## Risk Mitigation Measures
+
+### Technical Risks
+- Smart contract audits by reputable security firms
+- Gradual feature rollout with community testing
+- Emergency pause mechanisms for critical functions
+- Multi-signature requirements for sensitive operations
+
+### Economic Risks
+- Diversified treasury management across stablecoins
+- Transparent fund allocation and reporting
+- Staged development funding releases
+- Community oversight of treasury operations
+
+### Operational Risks
+- Redundant infrastructure deployment
+- Decentralized data storage for assessment records
+- Multiple blockchain archive nodes
+- Professional legal and compliance advisory team
+
+---
+
+**Document Control:**
+- **Contract Deployment**: June 2025
+- **Verification Status**: Fully verified on PolygonScan
+- **Last Updated**: June 30, 2025
+- **Next Review**: September 2025
+
+**Important Notice:** All contract addresses and technical specifications are subject to final deployment confirmation. Users should verify contract addresses through official SUTRA communication channels before participating in the presale. Never send funds to unverified addresses.
 -----
 
 **Document Control**:
 
 - Version: 6.0
-- Last Updated: June 25, 2025
+- Last Updated: June 30, 2025
 - Next Review: September 2025
 
 **Legal Counsel**:
