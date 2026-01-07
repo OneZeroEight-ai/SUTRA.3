@@ -320,7 +320,6 @@ OneZeroEight.ai positions itself uniquely in the playlist promotion market by el
 ### Q2 2026
 
 - 750 artists, 50 active curators target
-- $70K monthly recurring revenue milestone
 - Mobile application beta
 - Advanced analytics dashboard
 - First governance proposals and voting
@@ -338,27 +337,6 @@ OneZeroEight.ai positions itself uniquely in the playlist promotion market by el
 - Global standard recognition for ethical AI creative economy
 - Cross-chain expansion
 - Ecosystem profitability and self-sustainability
-
------
-
-## Financial Model
-
-### Unit Economics
-
-|Campaign Tier       |Price|Curator Cost|Gross Margin|
-|--------------------|-----|------------|------------|
-|Basic (10 curators) |$79  |$20         |$59 (75%)   |
-|Growth (20 curators)|$149 |$40         |$109 (73%)  |
-|Pro (35 curators)   |$299 |$70         |$229 (77%)  |
-
-### Revenue Projections
-
-|Period          |Artists|Monthly Revenue|Net Profit   |
-|----------------|-------|---------------|-------------|
-|Month 1-3       |50     |$5,000         |$2,500       |
-|Month 4-6       |200    |$25,000        |$15,000      |
-|Month 7-12      |750    |$70,000        |$40,000      |
-|**Year 1 Total**|-      |**~$500,000**  |**~$250,000**|
 
 -----
 
