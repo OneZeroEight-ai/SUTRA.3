@@ -197,10 +197,8 @@ New artists receive a free trial that includes guaranteed placement on OneZeroEi
 
 |Action                            |Compensation             |
 |----------------------------------|-------------------------|
-|Per honest review                 |$2 USD + 50 SUTRA        |
-|Successful placement bonus        |+$1 USD + 25 SUTRA       |
-|Detailed feedback (50+ words)     |+$0.50 USD               |
-|Monthly volume bonus (20+ reviews)|+$0.50/review retroactive|
+|Per honest review                 | 50 SUTRA        |
+|Successful placement bonus        | 25 SUTRA       |
 |5-star artist rating              |+25 SUTRA                |
 
 ### Deflationary Mechanics
